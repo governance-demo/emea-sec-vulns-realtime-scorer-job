@@ -1,2 +1,6 @@
 # emea-sec-vulns-realtime-scorer-job
-security / critical / emea
+
+Team: **security**  
+Tier: **critical**  
+Region: **emea**  
+Synthetic demo repo for the Domo governance platform.
